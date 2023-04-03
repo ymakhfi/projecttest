@@ -20,4 +20,5 @@ Exécutez la commande yarn install pour installer toutes les dépendances du pro
 Si vous utilisez un simulateur iOS, exécutez la commande npx react-native run-ios pour compiler et exécuter l'application sur le simulateur iOS.
 ###  STEP4: 
 Si vous utilisez un émulateur Android, ouvrez-le, puis exécutez la commande npx react-native run-android pour compiler et exécuter l'application sur l'émulateur Android.
-Remarque: assurez-vous que vous avez installé Yarn sur votre système avant d'exécuter yarn install. Vous pouvez vérifier si Yarn est installé en exécutant la commande yarn --version dans votre terminal. Si ce n'est pas installé, vous pouvez le télécharger à partir du site Web officiel de Yarn: https://classic.yarnpkg.com/fr/docs/install/.
+###Remarque: 
+assurez-vous que vous avez installé Yarn sur votre système avant d'exécuter yarn install. Vous pouvez vérifier si Yarn est installé en exécutant la commande yarn --version dans votre terminal. Si ce n'est pas installé, vous pouvez le télécharger à partir du site Web officiel de Yarn: https://classic.yarnpkg.com/fr/docs/install/.
