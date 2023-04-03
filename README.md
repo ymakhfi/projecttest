@@ -1,4 +1,4 @@
-# projecttest
+# Project Test
 Bonsoir monsieur,j'espère que vous portez bien. Pour le projet, il est développé en react native framework en utilisant les technologies suivantes:
 ## typeScript:  
 pour détecter les erreurs de code .
