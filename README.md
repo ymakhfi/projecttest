@@ -1,4 +1,6 @@
 # Project Test
+![Alt text](https://ibb.co/6DkYHtg)
+
 le projet, il est développé en react native framework en utilisant les technologies suivantes:
 ## typeScript:  
 pour détecter les erreurs de code .
